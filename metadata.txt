@@ -1,0 +1,4 @@
+Name: Kyleterry Theme
+Author: Kyle Terry <kyle@kyleterry.com>
+License: GPL
+Summary: My theme.
