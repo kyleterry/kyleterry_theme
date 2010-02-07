@@ -215,3 +215,7 @@ img{
 	border-top-left-radius: 2px;
 	border-bottom-left-radius: 2px;
 }
+
+.syntax{
+	font-size: 14px;
+}
